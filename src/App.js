@@ -1,5 +1,5 @@
 import './App.css';
-import Media from './component/media_imformation';
+import Media from './component/media_information';
 
 
 function App() {
